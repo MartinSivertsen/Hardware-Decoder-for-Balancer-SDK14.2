@@ -29,3 +29,6 @@
 _build/
 RTE/
 Output/
+
+external/SDK/*
+
